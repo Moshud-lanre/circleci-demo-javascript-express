@@ -244,3 +244,5 @@ This warning is visible only on development and totally harmless. This occurs to
 
 ## License
 MERN is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+
+Just a line that does nothing
